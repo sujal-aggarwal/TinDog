@@ -11,4 +11,4 @@
   </p>
 <hr>
 
-<h2>📍 Access the Site <a href="https://tindog-pets.netlify.app/">here!</a></h2>
+<h2>📍 Access the Site <a href="https://tindog-by-sujalaggarwal.netlify.app">here!</a></h2>
